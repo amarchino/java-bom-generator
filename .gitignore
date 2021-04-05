@@ -1,0 +1,4 @@
+.vscode/
+output/
+target/
+src/main/resources/config.properties
